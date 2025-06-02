@@ -1,0 +1,1 @@
+This project looks into the product association and customer behaviour with each product and can help suggest and predict likely products that will be sold together and will also help with strategic position of the products
